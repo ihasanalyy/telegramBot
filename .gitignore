@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+bower_components/
+
+
